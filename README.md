@@ -1,1 +1,1 @@
-# InsureAI
+# Insure AI
